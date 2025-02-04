@@ -1,8 +1,18 @@
-# React + Vite
+# React Movie Center Refresher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was a quick refresher for me for the follwoing topics:
 
-Currently, two official plugins are available:
+JSX
+Components
+Conditional Rendering
+State Managments
+Routing
+Calling APIS & useEffect
+Contexts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Home Page
+![image](https://github.com/user-attachments/assets/72baf72a-f3f6-44d6-a6e4-0920253e91eb)
+# this where the fav moves will be showen when pressed on the Heart Icon
+![image](https://github.com/user-attachments/assets/a8c1b1c5-7e31-452d-94df-6869a0bca31d)
+# Fav Moves
+![image](https://github.com/user-attachments/assets/bb52cc85-b358-4255-82c2-0bfccf49c111)
